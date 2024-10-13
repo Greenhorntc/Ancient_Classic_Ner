@@ -1,0 +1,17 @@
+宋辟公，剔成
+<per>宋辟公</per>薨，子<per>剔成</per>立。
+公孙鞅
+于是<loc>卫</loc><per>公孙鞅</per>闻是令下，乃西入<loc>秦</loc>。
+公孙鞅
+<per>公孙鞅</per>者，<loc>卫</loc>之庶孙也。好刑名之学。
+
+地理
+<loc>齐</loc>伐<loc>魏</loc>，取<loc>观津</loc>。
+<loc>赵</loc>侵<loc>齐</loc>，取<loc>长城</loc>。
+<loc>魏</loc>、<loc>韩</loc>会于<loc>宅阳</loc>。
+并诸小乡聚，集为大县，县一令，四十一县。
+时间
+<time>二十四年</time>，与<per>楚王</per>会<loc>鄢</loc>，又会<loc>穰</loc>。
+<loc>秦</loc>界至<loc>大梁</loc>，初置<loc>三川郡</loc>。
+<time>二年</time>，使<per>蒙骜</per>攻<loc>赵</loc>，定<loc>太原</loc>。
+<time>五十三年</time>，天下来宾。
