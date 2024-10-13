@@ -17,7 +17,7 @@ https://github.com/Greenhorntc/Ancient_Classic_Ner_siku.git
 
 3：采用Yaojie Lu等人在ACL-2022推出的uie
 将数据处理为uie格式，生成式任务在模型预测速度、模型蒸馏上相对抽取式来说没有优势。https://github.com/universal-ie/UIE
-更推荐使用：https://github.com/Tongjilibo/bert4torch/tree/master/examples/sequence_labeling/uie（推理和训练速度更快）
+更推荐使用推理和训练速度更快：https://github.com/Tongjilibo/bert4torch/tree/master/examples/sequence_labeling/uie
 
 3：提供两种T5模型进行微调，分别是mt5和mengzi。
 mT5training.py 
