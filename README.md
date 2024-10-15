@@ -19,8 +19,12 @@ https://github.com/Greenhorntc/Ancient_Classic_Ner_siku.git
 将数据处理为uie格式，生成式任务在模型预测速度、模型蒸馏上相对抽取式来说没有优势。https://github.com/universal-ie/UIE
 更推荐使用推理和训练速度更快：https://github.com/Tongjilibo/bert4torch/tree/master/examples/sequence_labeling/uie
 
-3：提供两种T5模型进行微调，分别是mt5和mengzi。
+4：提供两种T5模型进行微调，分别是mt5和mengzi。
 mT5training.py 
 
-4：使用ZuoEvalute.py进行评估，需要将生成的结果进行回标。
+5：使用ZuoEvalute.py进行评估，需要将生成的结果进行回标。
+
+6:提供蒸馏数据更多的版本，详情见：zuo_aug.txt
+链接：https://pan.baidu.com/s/1_bG1pA6UOHXyAPXGyrKZnw?pwd=eb2q 
+提取码：eb2q
 
